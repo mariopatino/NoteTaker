@@ -1,0 +1,19 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "jest"
+  },
+  "author": "Mario Patino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
